@@ -2,12 +2,8 @@
 
 Welcome to my code portfolio. This repo indexes my public work across open source projects, competition code and participation, and selected private work summaries.
 
-## 📦 Projects
- 
-- [rewind-viewer](https://github.com/mortido/rewind-viewer) - Extended (rewritten) functionality of original tool for visualization and replays `c++` `opengl` `flatbuffers` `imgui` `visualization`
-- [kOS-Scripts](https://github.com/mortido/kOS-Scripts) - Fun scripts for Kerbal Space Program game with KoS mod. `orbital mechanics` `automation` `space simulation`
-- [arduino-projects](https://github.com/mortido/arduino-projects) - Code for arduino compatible boards for small fun projects `arduino`
-- [mini-opt](https://github.com/mortido/mini-opt) - tool for parameters optimization for "Mini AI cups"`genetic algorithm` `python` `parameter tuning`
+## 📦 Featured Project:
+- [rewind-viewer](https://github.com/mortido/rewind-viewer) - Universal 2D replay & visualization tool (heavily rewritten fork). Redesigned core architecture including networking, rendering pipeline (OpenGL), and data layer. Implemented extra features (like using many sources at once or send control signals back), added new rendering primitives and optimized for large-scale simulation playback. `c++` `opengl` `flatbuffers` `imgui` `visualization` `performance`
 
 ## 🏆 Competitions
 
